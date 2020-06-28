@@ -1,6 +1,6 @@
 # Spirographic-Harmony
 
-### To watch it in real time visit
+### Check out the link for real time demo
 
 https://rudrajit1729.github.io/Spirographic-Harmony/ 
 
@@ -19,5 +19,9 @@ This visualization is inspired by my childhood memory of drawing with spirograph
 
 ### Results
 
-![](https://github.com/rudrajit1729/Spirographic-Harmony/blob/master/results/Capture.JPG)
 
+![](https://github.com/rudrajit1729/Spirographic-Harmony/blob/master/results/Capture2.JPG)
+
+
+
+![](https://github.com/rudrajit1729/Spirographic-Harmony/blob/master/results/Capture3.JPG)
