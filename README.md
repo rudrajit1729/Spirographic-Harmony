@@ -1,23 +1,23 @@
 # Spirographic-Harmony
 
-### Check out the link for real time demo
+## Check out the link for real time demonstration - https://rudrajit1729.github.io/Spirographic-Harmony/ 
 
-https://rudrajit1729.github.io/Spirographic-Harmony/ 
+
 
 - Refresh/Reset to generate new spirographs everytime.
 - You can interact with it by adjusting its color and speed.
 
-### Spirographs
+## Spirographs
 Spirograph is a geometric drawing device that produces mathematical roulette curves of the variety technically known as hypotrochoids and epitrochoids.
 
 The well known toy version was developed by British engineer Denys Fisher and first sold in 1965.
 
-### Motivation
+## Motivation
 This project was built to motivate kids towards world of Geometry and Mathematics beyond books.
 
 This visualization is inspired by my childhood memory of drawing with spirograph.
 
-### Results
+## Results
 
 
 ![](https://github.com/rudrajit1729/Spirographic-Harmony/blob/master/results/Capture2.JPG)
