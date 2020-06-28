@@ -1,0 +1,64 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+    color: #444;
+  }
+  
+  .title {
+    font-size: 128px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .about-text {
+    width: 75%;
+    margin-bottom: 100px;
+  }
+  
+  .controller {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .controller-layout {
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  
+  #speedslider {
+    width: 70px;
+  }
+  
+  a {
+    color: hotpink;
+  }
+  
+  .btn {
+    cursor: pointer;
+  }
+  
+  .space {
+    white-space: pre;
+  }
+  
+  @-webkit-keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fade-in {
+      -webkit-animation: fadeIn 3s ease-in 1 forwards;
+    animation: fadeIn 3s ease-in 1 forwards;
+    opacity: 0;
+  }
