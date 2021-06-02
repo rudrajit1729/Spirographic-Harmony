@@ -3,7 +3,6 @@
 ## Check out the link for real time demonstration - https://rudrajit1729.github.io/Spirographic-Harmony/ 
 
 
-
 - Refresh/Reset to generate new spirographs everytime.
 - You can interact with it by adjusting its color and speed.
 
